@@ -1,0 +1,21 @@
+Django app to be able to identify who is due to be oncall.
+
+Needs to take a list of active staff and predictively staff the rota for the future based on that
+
+eg Alpha, Beta and Gamma are the three staff. Each individual covers for N Days each.
+Anyone should be able to cover a shift.
+
+A report / snapshot for each month should be created. Number of Shifts. Number of Shifts covered.
+
+
+MVP 
+ - Staff 
+ - Config
+ - 
+
+Next Steps:
+ - Callout log. Identify when an individual has been required to perform the required work and how long this was done for
+ - Overtime form?
+ 
+
+ 
