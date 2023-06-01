@@ -16,7 +16,8 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-
+from callout import views as callout_views
 urlpatterns = [
+    path('', callout_views.index),
     path('admin/', admin.site.urls),
 ]

@@ -1,3 +1,10 @@
 from django.db import models
 
-# Create your models here.
+# Just use the django auth for the users: 
+# Amy Gas
+# Brad Flipson
+# Dev Glean
+# Axe Twister
+# Aly Steph
+
+
